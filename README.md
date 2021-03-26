@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick.
-Creating a new branch is quick and <simple class="asdasdasdadasdasd"></simple>
+Git is a free software is quick and <simple class="asdasdasdadasdasd"></simple>
